@@ -5,5 +5,6 @@ public class app {
         System.out.println("hello world 2");
         System.out.print("hello world");
         System.out.print("hello world");
+        System.out.println("TEST");
     }
 }
